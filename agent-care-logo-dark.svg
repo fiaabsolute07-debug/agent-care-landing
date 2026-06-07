@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;700&display=swap');
+    </style>
+  </defs>
+
+  <!-- ── DARK VARIANT (on dark bg) ── -->
+  <g id="logo-dark">
+    <!-- icon -->
+    <rect x="0" y="0" width="72" height="72" fill="#1e3a8a"/>
+    <polyline points="15,19 42,36 15,53" fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40" y="51" width="20" height="7" fill="#ffffff"/>
+    <!-- wordmark -->
+    <text x="90" y="32" font-family="Oxanium, monospace" font-size="26" font-weight="300" letter-spacing="2" fill="#f2ede5">agent</text>
+    <text x="90" y="60" font-family="Oxanium, monospace" font-size="26" font-weight="700" letter-spacing="2" fill="#5c8dff">care</text>
+  </g>
+</svg>

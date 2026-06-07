@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+
+  <!-- ── ICON ONLY — favicon / app icon / avatar ── -->
+  <g id="logo-icon">
+    <rect x="0" y="0" width="72" height="72" fill="#1e3a8a"/>
+    <polyline points="15,19 42,36 15,53" fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40" y="51" width="20" height="7" fill="#ffffff"/>
+  </g>
+</svg>
